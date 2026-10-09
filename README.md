@@ -5,6 +5,8 @@ A radio and music player for a Nexus 7 (2012) running Nerves, built with
 [Solve](https://hex.pm/packages/solve). It plays through squeezelite, so the
 tablet is a player in a Lyrion/Logitech Media Server (LMS) setup.
 
+<img src="docs/now-playing.png" alt="Now Playing on the Nexus 7, showing NPO Radio 1" width="400">
+
 - **Radio**: favourite stations as tiles; browse the server's radio sources
   (TuneIn) and star stations to add or remove favourites.
 - **Now Playing**: cover or station logo, progress, transport, volume, queue.
